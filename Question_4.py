@@ -14,9 +14,6 @@ print("updated it_companies list",it_companies)
 #Removing one of the companies from the set it_companies
 it_companies.remove('IBM')
 print(it_companies)
-#Difference between remove and discard
-#Remove:
-#Discard:
 
 #Join A and B
 print("Joining A and B:",A.union(B))
